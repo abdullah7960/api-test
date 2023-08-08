@@ -159,10 +159,10 @@ class _HomeScreenState extends State<HomeScreen> {
                                             ),
                                           ),
                                         ),
-                                        SizedBox(width:mq.width * 0.02),
+                                        SizedBox(width:mq.width * 0.05),
                                         SizedBox(
                                             height: mq.height * 0.08,
-                                            width: mq.width * 0.2,
+                                            width: mq.width * 0.15,
                                             child: Image.network(
                                                 products![index].thumbnail)),
                                                 const Spacer(),
