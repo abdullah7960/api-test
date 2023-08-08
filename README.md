@@ -1,4 +1,7 @@
 # api-test
+#scren shot
+![ss pi test](https://github.com/abdullah7960/api-test/assets/114981574/b9caee67-74ad-43fd-ba0c-91ebca4a2e32)
+
 #out put
 
 
